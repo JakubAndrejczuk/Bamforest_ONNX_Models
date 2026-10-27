@@ -1,3 +1,4 @@
 # Bamforest-Models
-<img width="3507" height="2480" alt="TŁO" src="https://github.com/user-attachments/assets/00ad33a8-4b2e-4094-94b5-cf761a8f87bd" />
 
+
+<img width="3543" height="1771" alt="Tło github" src="https://github.com/user-attachments/assets/11a33427-db2a-4963-b071-05295a208f5a" />
