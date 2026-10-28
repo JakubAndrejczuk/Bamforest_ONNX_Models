@@ -2,6 +2,8 @@
 
 **English** | [Polski](README.pl.md)
 
+<img width="3543" height="1771" alt="background" src="https://github.com/user-attachments/assets/b85b46c4-e25b-45d5-adf4-0f292afaa61e" />
+
 Two **Ultralytics YOLO26 nano** models for tree-crown detection and semantic segmentation in high-resolution RGB UAV imagery, trained using the BAMFORESTS dataset.
 
 | Task | Model | Format |
