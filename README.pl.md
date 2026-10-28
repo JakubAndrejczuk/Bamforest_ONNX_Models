@@ -61,4 +61,6 @@ Zalecane warunki pozyskiwania zobrazowań UAV:
 
 ## Licencja
 
-Metadane obu modeli ONNX wskazują **AGPL-3.0** i odsyłają do [warunków licencji Ultralytics](https://www.ultralytics.com/license). Przed redystrybucją lub zastosowaniem komercyjnym należy sprawdzić właściwe warunki licencji. Dane BAMFORESTS podlegają odrębnym warunkom udostępniania określonym przez właścicieli zbioru.
+Modele wytrenowano na zbiorze [BAMFORESTS](https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute/photogrammetry-and-image-analysis/public-datasets/bamforests), udostępnionym na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Przy wykorzystaniu zbioru wymagane jest cytowanie publikacji [Troles i in. (2024)](https://doi.org/10.3390/rs16111935).
+
+Modele ONNX utworzono z wykorzystaniem Ultralytics YOLO26 i udostępniono na warunkach [AGPL-3.0](https://www.ultralytics.com/license).
