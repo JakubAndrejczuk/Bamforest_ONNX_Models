@@ -2,6 +2,8 @@
 
 [English](README.md) | **Polski**
 
+<img width="3543" height="1771" alt="background" src="https://github.com/user-attachments/assets/4b11b440-ea14-463c-b50d-42c3cf23699d" />
+
 Dwa modele **Ultralytics YOLO26 nano** do detekcji i segmentacji semantycznej koron drzew na wysokorozdzielczych zobrazowaniach UAV RGB, wytrenowane na danych projektu BAMFORESTS.
 
 | Zadanie | Model | Format |
