@@ -64,3 +64,6 @@ Recommended UAV acquisition conditions:
 The models were trained on the [BAMFORESTS](https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute/photogrammetry-and-image-analysis/public-datasets/bamforests) dataset, released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Use of the dataset requires citation of [Troles et al. (2024)](https://doi.org/10.3390/rs16111935).
 
 The ONNX models were developed using Ultralytics YOLO26 and are distributed under the [AGPL-3.0](https://www.ultralytics.com/license) license.
+
+## Contributions
+The models were developed by the Geomatics Task Force at the Regional Directorate of State Forests in Toruń, Poland.
